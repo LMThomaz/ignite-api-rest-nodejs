@@ -1,5 +1,9 @@
 # Rest API
 
+## Variáveis de ambientes
+
+- DATABASE_URL - URL do banco de dados
+
 ## Comandos Knex
 
 - Criar uma migration
